@@ -1,0 +1,13 @@
+name = "Miner's Moon"
+filename = "MinersMoon1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HuJzK25C/versions/E05MUilj/MinersMoon1.20.1-1.0.1.jar"
+hash-format = "sha512"
+hash = "26adb3d30f4cf48e7dbd3818ebf314d93c9eec9c854f24647ffa01262de7483c0add680dbe624f2fd5698126b881e53ff7b4fcba347cc18f69b04a3077a25363"
+
+[update]
+[update.modrinth]
+mod-id = "HuJzK25C"
+version = "E05MUilj"

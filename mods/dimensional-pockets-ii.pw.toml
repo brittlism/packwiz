@@ -1,0 +1,13 @@
+name = "Dimensional Pockets II"
+filename = "dimensionalpocketsii-1.20.1-9.1.0.0-universal.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pJpI01oW/versions/bS0oh5l6/dimensionalpocketsii-1.20.1-9.1.0.0-universal.jar"
+hash-format = "sha512"
+hash = "02d527e4d148c7a9829fd834680fa35fdb2439d192d7ed2673a97050cffb4ca3a360b2944200031ccf3c8763186cc75cac31c0258d5d208d49f3e2e343ecd542"
+
+[update]
+[update.modrinth]
+mod-id = "pJpI01oW"
+version = "bS0oh5l6"

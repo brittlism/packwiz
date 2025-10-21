@@ -1,0 +1,13 @@
+name = "XK's Decoration"
+filename = "XeKr's Decoration-1.20.1-Forge-0.9.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XlwMlNhH/versions/W17Y8pUb/XeKr%27s%20Decoration-1.20.1-Forge-0.9.3.jar"
+hash-format = "sha512"
+hash = "d9c2d0dd892235ae8b92fd731994ef595fb411074dfa9dc5a4920a4ef882bc5cd710d5fb8d1d339e9f6b51f8be5e0e96b8b0cfe1deb2f47e6760e7fbf0727999"
+
+[update]
+[update.modrinth]
+mod-id = "XlwMlNhH"
+version = "W17Y8pUb"
