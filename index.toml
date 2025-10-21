@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "20a70be7c186d574ab11c58836e98521253651bcf17755051f5cd6b30b418266"
+hash = "97f7c75ac9bf6ee2a4f15c0f1e3e4cd161f3d2e33f32ebf623811ac90b3c2a83"
 metafile = true
 
 [[files]]
@@ -353,11 +353,6 @@ metafile = true
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
 hash = "b95ff533156a0469a1419871a87523cdfdf00d7321e25233f16a758b910e3d98"
-metafile = true
-
-[[files]]
-file = "mods/eureka.pw.toml"
-hash = "d87a2ef4b990dc9d189ca15e07394e82266773dee1e3c4e5b4d8b662d56ed03b"
 metafile = true
 
 [[files]]
@@ -903,11 +898,6 @@ metafile = true
 [[files]]
 file = "mods/twilight-delight.pw.toml"
 hash = "8055c3603b73c743d1d14038f1c8c44606c5288254c7708cdd1f681966501745"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "d179e74a88c7b6795afb48d866904697fcf0f0733612314990705e14c06f0651"
 metafile = true
 
 [[files]]
