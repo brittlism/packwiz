@@ -26,6 +26,11 @@ hash = "7eb6b5ee57865d6221be3c428f5a0c4e449f4c86920e9f8736b4f755d7822edf"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "1b31cb793a692d9f692b233eab37e6fed156f7b05c4a2080a75ea6c06c38c178"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "6d369d90dac6730c6faa243bf73d00d9945e2a932c9c031eb7619d979eaebe8d"
 metafile = true
@@ -71,6 +76,11 @@ hash = "9f2ffb0d4c65fcb2a96878287a7119459b9d0637c395e5097d691416690d6563"
 metafile = true
 
 [[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "06580e84bd3c27a84c743ebe0c45e3bd7ce6e1b6377e39f15774634a7663130b"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
 metafile = true
@@ -81,8 +91,18 @@ hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
 metafile = true
 
 [[files]]
+file = "mods/iceberg.pw.toml"
+hash = "c1d1a0476c58e3c011de6f750f48eb4f48493a1b9cef7bd59c008e87e0c0984c"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "835bd8b05a05ce6c0981ddc37c49e4c476aa0414cc2a5321fd9f8994193b6feb"
+metafile = true
+
+[[files]]
+file = "mods/item-highlighter.pw.toml"
+hash = "1fd7d2d0d436f2b8e61475da148bdb0dac06bdddeb6d188629785e2a2a89320d"
 metafile = true
 
 [[files]]
@@ -121,8 +141,18 @@ hash = "362ead0883974a7de4dd711a75ccfe71b2ceadf172211934e8cd6084977c0f49"
 metafile = true
 
 [[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "311e6ff7804f35deac9b3bd48bba8708590f1d8b6648048e7a021b4c5583d3fc"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "59a9bbe68d16fdb5955d9775cca44093e43660d67b3ab4fba35a088db0ae5de5"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "3ab8970e80d25686ebe4bf0747a96d116ab961ce6974aa815cc9fcbce5553b62"
 metafile = true
 
 [[files]]
@@ -183,6 +213,21 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-dungeons.pw.toml"
 hash = "c35112cced2eec8e5782c5c4327ae31bce16cc1356c75e52000053e890e0f0c1"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island.pw.toml"
+hash = "302d69d833264022aa7ff781dbcde7f60f3c9e3021881b29f6f59223c36579c8"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples.pw.toml"
+hash = "8c8b596c0e8f7366e30ee6edbd591fba9ef16741c25a505e64de9a299cd72e80"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+hash = "41aa01e9d0507d3131eb5fd2f6d8f2b7c54237e30a94e2a3bf6f52915cb8a688"
 metafile = true
 
 [[files]]
