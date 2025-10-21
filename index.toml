@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "automator.py"
-hash = "9ecdf7d15c3c63175c6232cd98fb14377d46411fa94199689baaab0250016bb4"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "b2ed80a95132518a9a6d52a487a7ddcc5b73904a335af5274d912c78fda3a649"
 metafile = true
