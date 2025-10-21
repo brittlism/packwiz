@@ -56,6 +56,11 @@ hash = "c5ea75feae4d340856611f78a29e6f1f0b7e707bfe43847f11d25fac1769dee7"
 metafile = true
 
 [[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "a6af059766ea70358690d048898d19e493108e2e06a97542fac696fd5e03589a"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "a4c814876cd9046f9cdbe0a5967edff092adb8c28de2d717ce5fe469d6fbc9a2"
 metafile = true
@@ -78,6 +83,11 @@ metafile = true
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
 hash = "06580e84bd3c27a84c743ebe0c45e3bd7ce6e1b6377e39f15774634a7663130b"
+metafile = true
+
+[[files]]
+file = "mods/fastload.pw.toml"
+hash = "832e8a46a8abf0363eeeea3f860b6b8ec5af2e9e8bb717be03fee848470dd538"
 metafile = true
 
 [[files]]
@@ -186,6 +196,11 @@ hash = "416bb6449da951ec1a04156348c502b9e47a947212becc173d277faaddaaaccd"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "3848bc11aa2acabef74eb85ca74b8ca8e23733b7fcbc77293165c5c7161e3288"
 metafile = true
@@ -203,6 +218,11 @@ metafile = true
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "6357df0792d139dd5de20e76710239dafeefad4bb8a4fffd8e819859167e6870"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "073176bf34feab44656497b2e5ddf80eae8cf12f743f332d56ac0544bd91d8e2"
 metafile = true
 
 [[files]]
@@ -233,6 +253,16 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-ocean-monuments.pw.toml"
 hash = "60511ad5628ed8e45a552de171c3330bdcdbd5f86f7047e26b505b7a8c824a47"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "18dfe8ada0af83eb86d4b8ff8e202479b7c2ab1ee1f894d9bb07cda1744e8981"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts.pw.toml"
+hash = "e25c97f72666319efdd79eafc22301376446912cbb8ac14339c428c98e3ce1b5"
 metafile = true
 
 [[files]]
