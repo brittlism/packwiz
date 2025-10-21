@@ -436,6 +436,11 @@ hash = "d3c46e2cf7b6cb19617bd0fab5bbeee7826c0a6371a48d1249b2fc3370a2da37"
 metafile = true
 
 [[files]]
+file = "mods/guideme.pw.toml"
+hash = "2e42b3a809ec9b027e23714e01c255fe5111a9d4cd58fad114dd0f2aa75c0d7e"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "c1d1a0476c58e3c011de6f750f48eb4f48493a1b9cef7bd59c008e87e0c0984c"
 metafile = true
@@ -773,6 +778,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "5c07edd0c8fe82e85efd6c027476ba54cf98291526803b74614c3436292e4ab6"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "5b92406160d9ea8a61ddf111caaecb7f6283678e2c40b08b72dce3eeaf20dc96"
 metafile = true
 
 [[files]]
