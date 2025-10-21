@@ -616,11 +616,6 @@ hash = "7f5a7cc6134e81f6f9411e353d5f92bee50fba2edfbc738b1fb3732a54cf51ba"
 metafile = true
 
 [[files]]
-file = "mods/particle-rain.pw.toml"
-hash = "7cb67085fb4e3ff71f09a36df813e4da8d02d7ce4623e6f6ede2df412ade621f"
-metafile = true
-
-[[files]]
 file = "mods/pehkui.pw.toml"
 hash = "1f92dd360908c1801848dcd4d14aca5640199545e7e22e76bfdb981b06fa9399"
 metafile = true
