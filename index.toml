@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "automator.py"
+hash = "9ecdf7d15c3c63175c6232cd98fb14377d46411fa94199689baaab0250016bb4"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "b2ed80a95132518a9a6d52a487a7ddcc5b73904a335af5274d912c78fda3a649"
 metafile = true
@@ -733,11 +737,6 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "416bb6449da951ec1a04156348c502b9e47a947212becc173d277faaddaaaccd"
-metafile = true
-
-[[files]]
-file = "mods/spark.pw.toml"
-hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
 metafile = true
 
 [[files]]
