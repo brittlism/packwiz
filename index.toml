@@ -41,11 +41,6 @@ hash = "8f0fec24816deafe73f182f307768b108f23f8ac221d277c341e64b28a8e0e17"
 metafile = true
 
 [[files]]
-file = "mods/apugli.pw.toml"
-hash = "6bc5a35e0d7005a96e7b577ea579041ad393cd27dd8b692d1f53e7ee05639dd2"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
@@ -371,11 +366,6 @@ hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
 metafile = true
 
 [[files]]
-file = "mods/forgified-fabric-api.pw.toml"
-hash = "2a2f2168bf03bfa3034ad9583588676c5d66b6f7c767df9fe259ab55350792d2"
-metafile = true
-
-[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "1030e18f2e875dfdf39de82b823e1dfe6009f21f1aaad338137d3a90504e2f7e"
 metafile = true
@@ -626,11 +616,6 @@ hash = "7f5a7cc6134e81f6f9411e353d5f92bee50fba2edfbc738b1fb3732a54cf51ba"
 metafile = true
 
 [[files]]
-file = "mods/origins-forge.pw.toml"
-hash = "736d3d09ea2fb87f8477f72d81a1f17b8ba6ad61a9cee9c122a37b2ccbdd62c9"
-metafile = true
-
-[[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "7cb67085fb4e3ff71f09a36df813e4da8d02d7ce4623e6f6ede2df412ade621f"
 metafile = true
@@ -643,11 +628,6 @@ metafile = true
 [[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "f79cb80b6ea599fe4ca9404465277ff7edf25118976170c28827590febfcee7a"
-metafile = true
-
-[[files]]
-file = "mods/project-mmo.pw.toml"
-hash = "e3eebb6d29e7c60162305bd9fda4cc57c4c04a6a4591a7b1c94555493050730d"
 metafile = true
 
 [[files]]
@@ -751,11 +731,6 @@ hash = "82bb7cd6c8b68bb1831bb7c374bd316b6403cd01195d582f19c31076c908953a"
 metafile = true
 
 [[files]]
-file = "mods/sodium-options-api.pw.toml"
-hash = "75a60e6b443b351b7a4a78ffce7c71e44b3e20ca10c374aea1de516c785d6e2d"
-metafile = true
-
-[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "416bb6449da951ec1a04156348c502b9e47a947212becc173d277faaddaaaccd"
 metafile = true
@@ -823,16 +798,6 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "073176bf34feab44656497b2e5ddf80eae8cf12f743f332d56ac0544bd91d8e2"
-metafile = true
-
-[[files]]
-file = "mods/what-are-they-up-to.pw.toml"
-hash = "c557d1b26559ef987c229187d2f2705616e78179ce04fa1c96cc3d76a1cdf1b5"
-metafile = true
-
-[[files]]
-file = "mods/xks-decoration.pw.toml"
-hash = "bf7a055583597da7a8ed1d2405de30b405e285232ea01890f3930cb503d787d8"
 metafile = true
 
 [[files]]
