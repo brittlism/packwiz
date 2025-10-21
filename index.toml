@@ -336,11 +336,6 @@ hash = "b95ff533156a0469a1419871a87523cdfdf00d7321e25233f16a758b910e3d98"
 metafile = true
 
 [[files]]
-file = "mods/every-compat.pw.toml"
-hash = "5440b850efb164ba045f4ca2bc219381608bae0ae31938fb6204a54cf482615e"
-metafile = true
-
-[[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "3136d2fa3cd097330976de6517806fb9a306b60a9c2f9f3845d1289cad11b8c4"
 metafile = true
@@ -638,11 +633,6 @@ metafile = true
 [[files]]
 file = "mods/origins-forge.pw.toml"
 hash = "736d3d09ea2fb87f8477f72d81a1f17b8ba6ad61a9cee9c122a37b2ccbdd62c9"
-metafile = true
-
-[[files]]
-file = "mods/packet-fixer.pw.toml"
-hash = "3ab8970e80d25686ebe4bf0747a96d116ab961ce6974aa815cc9fcbce5553b62"
 metafile = true
 
 [[files]]
