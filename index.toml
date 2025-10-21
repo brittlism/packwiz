@@ -201,11 +201,6 @@ hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
 metafile = true
 
 [[files]]
-file = "mods/custom-villager-trades.pw.toml"
-hash = "1a68b58125b4bc17c12e430a9b573c664b3fc76a761936c4db9248dd14f525ed"
-metafile = true
-
-[[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "eb60f70cc84efa111a51c35311a44ae352b3b9c98ec7ba4e64595ae627e33006"
 metafile = true
@@ -703,11 +698,6 @@ metafile = true
 [[files]]
 file = "mods/projecte.pw.toml"
 hash = "26b6891625bf09317245200e3adb871cea00dbd41859d68cf57062544c0e6041"
-metafile = true
-
-[[files]]
-file = "mods/projectsavethepets.pw.toml"
-hash = "494325529fe5e8669fcc28a4a53698bcf9659cc1392f36525a6f7ff33546fc29"
 metafile = true
 
 [[files]]
