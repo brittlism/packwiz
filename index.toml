@@ -551,6 +551,11 @@ hash = "cb0c6726a5e0705d78adf86ea1cd0ce22e08c928d2842e1937bbeec387b19fd8"
 metafile = true
 
 [[files]]
+file = "mods/mpalladium.pw.toml"
+hash = "98815a8a24cf1eb227e1b6ae101a7416de0d18bd1d95d27c52906679c3cd5d76"
+metafile = true
+
+[[files]]
 file = "mods/multi-mine.pw.toml"
 hash = "fcd655a3a3f6063d9ba915b6f03206ced420bdc7a177ef07241a9b40f09fa156"
 metafile = true
@@ -696,6 +701,11 @@ hash = "817b4a47826bd99c69957fe07131d5704984f89fec96287cdc20c6fbe46100cf"
 metafile = true
 
 [[files]]
+file = "mods/rubidium.pw.toml"
+hash = "a1c202690fef8c74cc7be79c23172be3e6db1993f55efae07cc8c56dca71c639"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "e4b99d45d1cfb55b0ecd2aa78c56958b57460e63b637448017df60b2412e77d9"
 metafile = true
@@ -713,6 +723,11 @@ metafile = true
 [[files]]
 file = "mods/sodium-dynamic-lights.pw.toml"
 hash = "82bb7cd6c8b68bb1831bb7c374bd316b6403cd01195d582f19c31076c908953a"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-api.pw.toml"
+hash = "75a60e6b443b351b7a4a78ffce7c71e44b3e20ca10c374aea1de516c785d6e2d"
 metafile = true
 
 [[files]]
@@ -758,6 +773,11 @@ metafile = true
 [[files]]
 file = "mods/tips.pw.toml"
 hash = "6f1d490b7da3e30a96bf49588f3e4a6989be3368478622959a3f1f4fbe54198b"
+metafile = true
+
+[[files]]
+file = "mods/toadlib.pw.toml"
+hash = "8a46b1ad0c1eaa1f0a0d03bf71ccf53b5d706cc9095c31fb0e653f4cb4e03158"
 metafile = true
 
 [[files]]
