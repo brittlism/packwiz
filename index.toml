@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "automator.py"
-hash = "9ecdf7d15c3c63175c6232cd98fb14377d46411fa94199689baaab0250016bb4"
-
-[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "d7a30358cb8314c296fec14e4ea74b8301edf093d6054dafac121e8fe9ac434f"
 metafile = true
