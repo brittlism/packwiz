@@ -646,11 +646,6 @@ hash = "563f167ca45d026339e32310623fdf2daefd89c258936e32b566d2f46c404617"
 metafile = true
 
 [[files]]
-file = "mods/project-vibrant-journeys.pw.toml"
-hash = "c571753534f74cd459c1aeacbc9f600597bb6e0996c2aeecbabc26c397826ddc"
-metafile = true
-
-[[files]]
 file = "mods/projecte.pw.toml"
 hash = "26b6891625bf09317245200e3adb871cea00dbd41859d68cf57062544c0e6041"
 metafile = true
