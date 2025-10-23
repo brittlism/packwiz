@@ -91,6 +91,11 @@ hash = "5c07edd0c8fe82e85efd6c027476ba54cf98291526803b74614c3436292e4ab6"
 metafile = true
 
 [[files]]
+file = "mods/rubidium.pw.toml"
+hash = "a1c202690fef8c74cc7be79c23172be3e6db1993f55efae07cc8c56dca71c639"
+metafile = true
+
+[[files]]
 file = "mods/sodium-dynamic-lights.pw.toml"
 hash = "82bb7cd6c8b68bb1831bb7c374bd316b6403cd01195d582f19c31076c908953a"
 metafile = true
