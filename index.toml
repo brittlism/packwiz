@@ -55,6 +55,11 @@ hash = "425e6c28f8cde1a676002afc11d62a847d7ead47c4a345da8dc0f2f6dd58562c"
 metafile = true
 
 [[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
+metafile = true
+
+[[files]]
 file = "mods/guideme.pw.toml"
 hash = "2e42b3a809ec9b027e23714e01c255fe5111a9d4cd58fad114dd0f2aa75c0d7e"
 metafile = true
@@ -97,6 +102,11 @@ metafile = true
 [[files]]
 file = "mods/sodium-options-api.pw.toml"
 hash = "75a60e6b443b351b7a4a78ffce7c71e44b3e20ca10c374aea1de516c785d6e2d"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "14117b94c456598c9acece143c7a0da3cf56d13182d035a74a2da8a52dd19cbd"
 metafile = true
 
 [[files]]
