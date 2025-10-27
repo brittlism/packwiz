@@ -51,6 +51,11 @@ hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
 metafile = true
 
 [[files]]
+file = "mods/essential.pw.toml"
+hash = "3a9f0f20458f86374fecb5ddc6a3a0f2033bac9f83ee423fe5a2e47612033245"
+metafile = true
+
+[[files]]
 file = "mods/expanded-ecosphere.pw.toml"
 hash = "425e6c28f8cde1a676002afc11d62a847d7ead47c4a345da8dc0f2f6dd58562c"
 metafile = true
